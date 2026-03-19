@@ -1,0 +1,32 @@
+# Weights and Models
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
+*.msgpack
+*.ot
+*.safetensors
+weights/
+work_dirs/
+mmdetection/work_dirs/
+
+# Datasets
+data/
+datasets/
+*.tar.gz
+*.zip
+*.rar
+
+# Logs and temporary files
+*.log
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Output files
+outputs/
+pkls/
+submit/
+submit_codalab/
